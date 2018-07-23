@@ -12,7 +12,7 @@ public class EmployeeInformation {
 		
 		System.out.println( "이름 : " + name);
 		System.out.println( "입사년도 : " + entranceYear);
-		System.out.println( "근무년수 : " + employedDuration);
+		System.out.println( "근무년수 : " + employedDuration); 
 	}
 
 }
