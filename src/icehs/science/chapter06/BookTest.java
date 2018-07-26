@@ -4,6 +4,8 @@ public class BookTest {
 
 	public static void main(String[] args) {
 		Book book1 = new Book();
+		Car c1 = new Car();
+		
 		
 		Book book2 = new Book("해리포터", 15000);
 		 

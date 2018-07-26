@@ -7,7 +7,8 @@ public class InstanceHelpEx {
 		Account account = new Account();
 		
 		
-		System.out.println(balanceAfterDeposit);
+
+
 		
 		Account account2 = new Account();
 		int balance = account2.getBalance();
