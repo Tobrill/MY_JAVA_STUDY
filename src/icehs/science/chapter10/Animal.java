@@ -1,4 +1,4 @@
-package icehs.science.chapter09;
+package icehs.science.chapter10;
 
 public abstract class Animal {
 	private int age;

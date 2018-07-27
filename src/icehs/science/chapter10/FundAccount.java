@@ -1,8 +1,9 @@
-package icehs.science.chapter09;
+package icehs.science.chapter10;
 
 public class FundAccount extends Account {
 	
 	private double earningRate;
+	private int principal;
 	
 	public FundAccount(String number, String name, int balance, double earningRate) {
 		super(number, name, balance);

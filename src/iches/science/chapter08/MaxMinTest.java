@@ -14,14 +14,11 @@ public class MaxMinTest {
 				min = arr[i];
 			}
 		}
-		
+	}
+}
 		
 			
-		}
-		System.out.println("배열 데이터 : " );
-		System.out.println("최대값 : " + max);
-		System.out.println("최소값 : " + min);
+		
+		
 
-	}
 
-}
